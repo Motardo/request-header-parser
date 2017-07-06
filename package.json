@@ -1,0 +1,25 @@
+{
+  "name": "request-header-parser",
+  "version": "0.1.0",
+  "description": "A microservice that returns the request headers as json",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.15.3",
+    "useragent": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Motardo/request-header-parser.git"
+  },
+  "keywords": [],
+  "author": "Nathan Wilson <nswilson@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Motardo/request-header-parser/issues"
+  },
+  "homepage": "https://github.com/Motardo/request-header-parser#readme"
+}
